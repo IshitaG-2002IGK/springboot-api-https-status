@@ -1,13 +1,6 @@
 
-/**
- * 
- * 
- * 
- * Source:
- * 
- * 		https://careydevelopment.us/blog/spring-boot-how-to-use-pathvariable-in-rest-apis
- * 
- */
+//  Source: https://careydevelopment.us/blog/spring-boot-how-to-use-pathvariable-in-rest-apis
+
 
 package org.tact.base.rest;
 
