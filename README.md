@@ -1,9 +1,9 @@
 <!-- [![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-base-rest.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-base-rest) -->
 
-# spring-base-rest
-Spring Boot REST Boilerplate Project
+# springboot-rest-api
+<!-- Spring Boot REST Boilerplate Project
 
----
+--- -->
 
 # How to run in Eclipse or Spring Tool Suite (STS)?
 1. Just download or clone in your local spce. 
